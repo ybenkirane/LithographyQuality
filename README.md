@@ -16,6 +16,7 @@ Goals:
 3) Find optimal score within a error domain of input parameters
         Incorporate Principal Component Analysis (PCA) as there may be too many variables to adequatly visualize... 
         https://builtin.com/data-science/step-step-explanation-principal-component-analysis
+        --> Embedding : https://www.toptal.com/machine-learning/embeddings-in-machine-learning#:~:text=An%20embedding%20is%20a%20low,for%20a%20particular%20data%20structure.
 
 4) Do the same with final post-LiftOff patterns and compare quality scores. 
     
