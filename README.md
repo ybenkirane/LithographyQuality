@@ -14,6 +14,8 @@ Goals:
 2) Plot the quality score as a multivariable function of input lithography parameters
 
 3) Find optimal score within a error domain of input parameters
+        Incorporate Principal Component Analysis (PCA) as there may be too many variables to adequatly visualize... 
+        https://builtin.com/data-science/step-step-explanation-principal-component-analysis
 
 4) Do the same with final post-LiftOff patterns and compare quality scores. 
     
