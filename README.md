@@ -8,7 +8,12 @@ To compute the quality of the lithography pattern, you can use a combination of 
 
 
 Goals: 
-    Iterate overlays for multiple sub-sections of a larger lithography array. 
-    Plot the quality score as a multivariable function of input lithography parameters
-    Find optimal score within a error domain of input parameters
-    Do the same with final post-LiftOff patterns and compare quality scores. 
+
+1) Iterate overlays for multiple sub-sections of a larger lithography array. 
+
+2) Plot the quality score as a multivariable function of input lithography parameters
+
+3) Find optimal score within a error domain of input parameters
+
+4) Do the same with final post-LiftOff patterns and compare quality scores. 
+    
