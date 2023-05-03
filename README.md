@@ -9,6 +9,8 @@ To compute the quality of the lithography pattern, you can use a combination of 
 
 Goals: 
 
+Pre-Process : Convert Lithography Scan to Grey-Scale to SSIM with original Pattern. SSIM = Quality (0-1 Value, 0 Being Worst, 1 Being Perfect)
+
 1) Iterate overlays for multiple sub-sections of a larger lithography array. 
 
 2) Plot the quality score as a multivariable function of input lithography parameters
